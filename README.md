@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # hosting website
 
-# linkedin-clone-yt-3c39b.web.app
+# https://linkedin-clone-yt-3c39b.web.app/
 
 In the project directory, you can run:
 
